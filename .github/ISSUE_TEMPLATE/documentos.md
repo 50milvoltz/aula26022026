@@ -1,5 +1,5 @@
 ---
-name: Documento de Reuquisitos
+name: Documento de Requisitos
 about: Criar um requisito funcional, não funcional ou regra de negócio
 title: "docs"
 ---
