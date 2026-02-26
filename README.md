@@ -1,2 +1,2 @@
 # aula26022026
-Levantamento dos requisitos e regras de negócio.
+Documento de levantamento de requisitos e regras de negócio. Elaboração dos documentos do projeto XXX
